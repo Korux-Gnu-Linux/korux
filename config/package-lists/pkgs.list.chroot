@@ -1,0 +1,137 @@
+# Standard Debian with Xfce
+live-task-xfce
+spice-vdagent
+
+# Text Editors and Terminal Tools
+mc
+vim
+tmux
+vifm
+vim-gtk3
+unclutter
+unclutter-startup
+
+# Debian Maintenance
+cdbs
+blhc
+duck
+quilt
+equivs
+lintian
+apt-file
+aptitude
+piuparts
+adequate
+pbuilder
+debhelper
+reportbug
+devscripts
+live-build
+debootstrap
+licensecheck
+debconf-utils
+how-can-i-help
+git-buildpackage
+
+# Git
+tig
+git
+
+# Fonts
+font-manager
+fonts-glasstty
+fonts-ibm-plex
+fonts-hack
+xfonts-terminus
+
+# Virtualization
+qemu-utils
+qemu-system
+
+# Documentation
+info
+mandoc
+gcc-doc
+linux-doc
+manpages-posix
+manpages-posix-dev
+
+# Localization
+manpages-ru
+manpages-ru-dev
+thunderbird-l10n-ru
+
+# Fun
+oneko
+cowsay
+toilet
+figlet
+
+# Mail and News
+neomutt
+newsboat
+birdtray
+thunderbird
+
+# Network Operations
+wget
+nmap
+ssh
+sshpass
+tcpdump
+rtorrent
+dnsutils
+net-tools
+traceroute
+netcat-traditional
+whois
+
+# Graphic and Multimedia Applications
+audacious
+telegram-desktop
+gnome-screensaver
+simplescreenrecorder
+simple-scan
+galculator
+pidgin-otr
+pidgin
+gparted
+peek
+vlc
+
+# Command Line Utilities
+fzf
+fzy
+xsel
+ripgrep
+bash-completion
+
+# Development and Compilation Tools
+gdb
+gawk
+cmake
+strace
+dh-make
+autoconf
+automake
+valgrind
+eatmydata
+pkg-config
+pristine-tar
+autotools-dev
+exuberant-ctags
+gobject-introspection
+
+# System Utilities and Administration
+systemd-coredump
+python3-pip
+patchutils
+moreutils
+dialog
+indent
+wipe
+shc
+zip
+tree
+gettext
+neofetch
